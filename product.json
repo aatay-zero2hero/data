@@ -1,5 +1,4 @@
-{
-  "products": [
+
     {
        "id": 1,
        "quantity": 1,
@@ -23,5 +22,3 @@
        "quantity": 2,
        "name": "Sun Lotion"
     }
-  ]
-}
